@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Manage Roles";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="userEmail">User Email</label>
+        <input type="email" name="userEmail" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="roleName">Role Name</label>
+        <input type="text" name="roleName" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Assign Role</button>
+</form>

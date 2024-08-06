@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\views\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\views\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|c:\\users\\asus\\source\\repos\\grocerystorewebapp\\grocerystorewebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBE5D39-8190-452E-9D49-56C805B59E1D}|GroceryStoreWebApp\\GroceryStoreWebApp.csproj|solutionrelative:grocerystorewebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Views\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Views\\ManageRoles.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Views\\ManageRoles.cshtml",
+              "RelativeToolTip": "GroceryStoreWebApp\\Views\\ManageRoles.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:46:51.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GroceryStoreWebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:43:45.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Program.cs",
+              "RelativeToolTip": "GroceryStoreWebApp\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAUwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:03:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\wwwroot\\manifest.json",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\wwwroot\\manifest.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\wwwroot\\manifest.json",
+              "RelativeToolTip": "GroceryStoreWebApp\\wwwroot\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T11:00:11.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GroceryStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T10:16:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-03T11:21:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GroceryStoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:18:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GroceryStoreWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\GroceryStoreWebApp\\GroceryStoreWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "GroceryStoreWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:44:30.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
